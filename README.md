@@ -80,7 +80,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ### Termux Full Install and Setup
 
 ```
-apt update && apt upgrade && apt install git && apt install python && git clone https://github.com/thakur2309/MailXtract.git && cd MailXtract && pip install -r requirement.txt && python mailxtract.py
+apt update && apt upgrade && apt install git && apt install python && git clone https://github.com/thakur2309/MailXtract.git && cd MailXtract && pip install -r requirements.txt && python mailxtract.py
 ```
 
 ### [TERMUX] Packege Install Comments
@@ -101,7 +101,7 @@ git clone https://github.com/thakur2309/MailXtract.git
 cd MailXtract
 ```
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 ### Start tool command
 ```
