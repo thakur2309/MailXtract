@@ -80,7 +80,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ### Termux Full Install and Setup
 
 ```
-apt update && apt upgrade && apt install tur-repo && apt install git tor privoxy netcat-openbsd curl && git clone https://github.com/thakur2309/IP-HOPPRR-.git && cd IP-HOPPRR- && bash setup.sh && bash iphopper.sh
+apt update && apt upgrade &&
 ```
 
 ### [TERMUX] Packege Install Comments
@@ -89,23 +89,23 @@ apt update && apt upgrade && apt install tur-repo && apt install git tor privoxy
 apt update && apt upgrade -y
 ```
 ```
-apt install tur-repo -y
+apt install git -y 
 ```
 ```
-apt install git tor privoxy netcat-openbsd curl -y
+apt install python -y
 ```
 ```
-git clone https://github.com/thakur2309/IP-HOPPRR-.git
+git clone https://github.com/thakur2309/MailXtract.git
 ```
 ```
-cd IP-HOPPRR-
+cd MailXtract
 ```
 ```
-bash setup.sh
+pip install -r requirement.txt
 ```
 ### Start tool command
 ```
-bash iphopper.sh
+python mailxtract.py
 ```
 
 
