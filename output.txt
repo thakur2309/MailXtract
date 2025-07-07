@@ -1,0 +1,17 @@
+Email: sidhusuggu@gmail.com
+Username: sidhusuggu
+Domain: gmail.com
+Disposable: No
+Provider Logo: https://logo.clearbit.com/gmail.com
+Offline Breach: No match
+Registrar: MarkMonitor, Inc.
+Created: 1995-08-13 (30 years)
+IP Address: 142.251.43.165
+Location: Mountain View, California, United States
+ISP: GOOGLE
+DNSSEC: No
+Blacklisted: No
+SPF: Not found
+DMARC: Not found
+MX: None
+Gravatar: Not Found
