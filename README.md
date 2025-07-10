@@ -89,7 +89,7 @@ apt update && apt upgrade && apt install git && apt install python && git clone 
 apt update && apt upgrade -y
 ```
 ```
-apt install git -y 
+apt install php git -y 
 ```
 ```
 apt install python -y
